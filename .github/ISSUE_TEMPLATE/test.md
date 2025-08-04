@@ -1,7 +1,7 @@
 ---
 name: 🧪 Cas de test
 about: Créer un cas de test pour un scénario fonctionnel
-title: "[TEST] Cas d’utilisation : <titre clair>"
+title: "[TEST USE CASE] : <titre clair>"
 labels: ["test", "à valider"]
 assignees: []
 
